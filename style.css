@@ -1,0 +1,34 @@
+/* Write some CSS below */
+body{
+	font-family: 'Trebuchet MS', sans-serif;
+	margin: 0;
+	font-size: 18px;
+  }
+
+
+
+h1, h2, h3 {
+  font-family: Overpass;
+  color: #86660b;
+  font-size: 26px;
+  text-align: center;
+}
+
+
+.banner{
+	background-image: url("https://th.bing.com/th/id/R.786379f54c2cf6f0ce6ff77b320d89f4?rik=uxF4pnR4U79cMA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-b_UkAPockuk%2fUeqbvHlvTbI%2fAAAAAAAAACs%2fNlDFBGAz7xA%2fs1600%2fMeilleur%2bfond%2becran%2b2.jpg&ehk=fyyk6AJlmhKpH0rpFQS7DoLJt3IJU9tQzuMkKLM38%2bQ%3d&risl=&pid=ImgRaw&r=0");
+	background-position: center;
+	padding: 150px 0;
+	text-align: center;
+	background-color: #c4a245;
+}
+
+.container{
+    background-color: #d2cdc1;
+    text-align: center;
+}
+
+.card-white{
+    background-color: #fef7e6;
+    text-align: center;
+}
